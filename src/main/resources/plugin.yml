@@ -1,0 +1,5 @@
+name: AriesRealms
+version: '1.0'
+main: com.ariesrealms.AriesRealms
+api-version: '1.21'
+authors: [ BlackD3stiny ]
